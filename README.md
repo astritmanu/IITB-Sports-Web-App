@@ -1,5 +1,5 @@
-# IITB-Sports-Website
+# IITB-Sports-Web App
 
-Website was designed to promote sports culture at IIT Bombay by enabling easier access to sports facilities (court booking, online payments, facility timings), improving visibility of college sports events (upcoming events, news feed, championship tracker) and highlighting top athletes (hall of fame, event pictures, sports profiles).
+Web application was designed to promote sports culture at IIT Bombay by enabling easier access to sports facilities (court booking, online payments, facility timings), improving visibility of college sports events (upcoming events, news feed, championship tracker) and highlighting top athletes (hall of fame, event pictures, sports profiles).
 
 Some features require login via IIT Bombay LDAP to function, hence not functional here.
